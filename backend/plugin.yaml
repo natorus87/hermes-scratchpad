@@ -1,0 +1,3 @@
+# Hermes Scratchpad — desktop half lives in ~/.hermes/desktop-plugins/hermes-scratchpad/
+name: hermes-scratchpad
+description: "AI-native text, notes and snippet editor for Hermes Desktop. Backend: Kanban task creation + local file IO."

@@ -1,0 +1,8 @@
+{
+  "name": "hermes-scratchpad",
+  "label": "Hermes Scratchpad",
+  "description": "Backend for the Hermes Scratchpad desktop plugin — Kanban task creation via kanban_db and safe local file read/write.",
+  "icon": "Notebook",
+  "version": "0.1.0",
+  "api": "plugin_api.py"
+}
